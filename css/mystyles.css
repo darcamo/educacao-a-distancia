@@ -82,9 +82,13 @@ li>code {
 
 
 .reveal .retangulo-preto {
-    background: rgba(25,25,25,0.7);
+    background: rgba(25,25,25,0.8);
     padding: 30px 30px 50px 30px;
     border-radius: 15px;
+}
+
+.reveal li {
+    margin: 10px 0px;
 }
 
 /* Local Variables: */
